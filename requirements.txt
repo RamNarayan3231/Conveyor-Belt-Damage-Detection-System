@@ -27,3 +27,15 @@ python-multipart
 tqdm
 pyyaml
 python-dotenv
+
+# Core dependencies - Compatible with Streamlit Cloud
+streamlit>=1.28.0,<2.0.0
+opencv-python-headless==4.8.1.78
+numpy>=1.24.0,<2.0.0
+Pillow>=10.0.0,<11.0.0
+
+# Data processing
+pandas>=2.0.0,<3.0.0
+plotly>=5.17.0,<6.0.0
+
+# No additional dependencies needed
