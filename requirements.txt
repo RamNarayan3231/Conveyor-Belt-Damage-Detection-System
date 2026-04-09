@@ -1,0 +1,29 @@
+# Core ML/DL
+torch
+torchvision
+ultralytics
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Data Processing
+numpy
+pandas
+scikit-learn
+
+# Visualization
+streamlit
+plotly
+matplotlib
+seaborn
+
+# Web/API
+fastapi
+uvicorn
+python-multipart
+
+# Utilities
+tqdm
+pyyaml
+python-dotenv

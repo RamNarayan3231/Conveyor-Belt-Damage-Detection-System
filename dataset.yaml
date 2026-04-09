@@ -1,0 +1,7 @@
+names:
+- scratch
+- edge_damage
+nc: 2
+test: prepared_dataset\test\images
+train: prepared_dataset\train\images
+val: prepared_dataset\val\images
